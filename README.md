@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ayush182004/LeetCode/tree/master/0051-n-queens) |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
@@ -57,4 +58,12 @@
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ayush182004/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Ayush182004/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
