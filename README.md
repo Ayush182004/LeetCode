@@ -31,23 +31,27 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayush182004/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayush182004/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush182004/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush182004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayush182004/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayush182004/LeetCode/tree/master/0101-symmetric-tree) |
 | [3310-remove-methods-from-project](https://github.com/Ayush182004/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayush182004/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayush182004/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush182004/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Ayush182004/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayush182004/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ayush182004/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush182004/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush182004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Minimax
