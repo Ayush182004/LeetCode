@@ -10,6 +10,7 @@
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush182004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush182004/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush182004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
