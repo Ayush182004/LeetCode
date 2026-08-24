@@ -10,6 +10,7 @@
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush182004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush182004/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ayush182004/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush182004/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush182004/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -27,11 +29,13 @@
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ayush182004/LeetCode/tree/master/1927-sum-game) |
 ## Tree
 |  |
@@ -64,10 +68,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +130,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush182004/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
