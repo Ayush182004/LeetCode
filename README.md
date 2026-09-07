@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush182004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -85,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush182004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
@@ -110,6 +113,7 @@
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush182004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -156,6 +160,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush182004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
@@ -177,8 +182,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
