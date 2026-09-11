@@ -17,6 +17,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush182004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush182004/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush182004/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayush182004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayush182004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayush182004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush182004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush182004/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayush182004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush182004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ayush182004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
