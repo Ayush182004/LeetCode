@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush182004/LeetCode/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/Ayush182004/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
@@ -214,4 +215,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ayush182004/LeetCode/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ayush182004/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
