@@ -46,6 +46,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Ayush182004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/Ayush182004/LeetCode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayush182004/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Ayush182004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Ayush182004/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush182004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayush182004/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush182004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -154,6 +156,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1927-sum-game](https://github.com/Ayush182004/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush182004/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayush182004/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush182004/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
@@ -180,6 +183,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayush182004/LeetCode/tree/master/0125-valid-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayush182004/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
