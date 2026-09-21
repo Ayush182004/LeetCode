@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush182004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0835-image-overlap](https://github.com/Ayush182004/LeetCode/tree/master/0835-image-overlap) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ayush182004/LeetCode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayush182004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -79,6 +81,7 @@
 | [0100-same-tree](https://github.com/Ayush182004/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ayush182004/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ayush182004/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/Ayush182004/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -243,4 +246,12 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush182004/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
