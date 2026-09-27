@@ -256,4 +256,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Ayush182004/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
