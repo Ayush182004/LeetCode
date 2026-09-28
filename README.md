@@ -160,6 +160,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ayush182004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayush182004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Ayush182004/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush182004/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayush182004/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush182004/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -267,4 +269,8 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Ayush182004/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1683-invalid-tweets](https://github.com/Ayush182004/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ayush182004/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
