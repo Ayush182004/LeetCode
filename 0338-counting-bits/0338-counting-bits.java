@@ -1,12 +1,26 @@
 class Solution {
     public int[] countBits(int n) {
-        
-        int[] dp = new int[n + 1];
 
-        for (int i = 1; i <= n; i++) {
-            dp[i] = dp[i >> 1] + (i & 1);
+        int[] ans = new int[n + 1];
+
+        for (int i = 0; i <= n; i++) {
+
+            int num = i;
+            int count = 0;
+
+            while (num > 0) {
+                int bit = num % 2;
+
+                if (bit == 1) {
+                    count++;
+                }
+
+                num = num / 2;
+            }
+
+            ans[i] = count;
         }
 
-        return dp;
+        return ans;
     }
 }
