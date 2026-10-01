@@ -139,6 +139,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush182004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Ayush182004/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
@@ -210,6 +211,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ayush182004/LeetCode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Ayush182004/LeetCode/tree/master/0338-counting-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
