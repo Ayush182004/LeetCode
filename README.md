@@ -6,6 +6,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/Ayush182004/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ayush182004/LeetCode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ayush182004/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush182004/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ayush182004/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ayush182004/LeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Ayush182004/LeetCode/tree/master/0338-counting-bits) |
@@ -172,6 +174,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ayush182004/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1927-sum-game](https://github.com/Ayush182004/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush182004/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
