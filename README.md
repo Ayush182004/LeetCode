@@ -47,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ayush182004/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ayush182004/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ayush182004/LeetCode/tree/master/0070-climbing-stairs) |
@@ -165,6 +166,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ayush182004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayush182004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -258,6 +260,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush182004/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -284,6 +287,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
