@@ -14,6 +14,7 @@
 | [0322-coin-change](https://github.com/Ayush182004/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayush182004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Ayush182004/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ayush182004/LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Ayush182004/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ayush182004/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayush182004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush182004/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayush182004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush182004/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -203,6 +205,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ayush182004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 ## Counting
 |  |
