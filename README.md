@@ -175,6 +175,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush182004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ayush182004/LeetCode/tree/master/0125-valid-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush182004/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Ayush182004/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -188,6 +189,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Ayush182004/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Ayush182004/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush182004/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/Ayush182004/LeetCode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayush182004/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayush182004/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -271,6 +273,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ayush182004/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush182004/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -297,6 +300,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush182004/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush182004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
