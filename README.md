@@ -35,6 +35,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayush182004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ayush182004/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
