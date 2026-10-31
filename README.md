@@ -34,6 +34,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayush182004/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ayush182004/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Ayush182004/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/Ayush182004/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayush182004/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ayush182004/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -72,6 +73,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ayush182004/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Ayush182004/LeetCode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ayush182004/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/Ayush182004/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Game Theory
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | ------- |
 | [0835-image-overlap](https://github.com/Ayush182004/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ayush182004/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/Ayush182004/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
